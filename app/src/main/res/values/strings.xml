@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">KotlinMasterApp</string>
+    <string name="splash_activity">Splash Activity</string>
+    <string name="login_activity">Login Activity</string>
+    <string name="signup_activity">SignUp Activity</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="or">OR</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="login_with_twitter">Login with Twitter</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="app_intro">App Intro</string>
+    <string name="welcome_to_kotlin_programming">Welcome to Kotlin Programming</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="email">Email</string>
+    <string name="new_password_will_be_send_to_the_email_id">New password will be send to the email id</string>
+    <string name="technology_partner_farmer_technologies_pvt_ltd">Technology Partner: Farmer Technologies Pvt. Ltd.</string>
+    <string name="recycler_view">Recycler View</string>
+    <string name="camera">Camera</string>
+    <string name="google_map">Google Map</string>
+</resources>
